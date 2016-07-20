@@ -23,6 +23,7 @@
 							<option value="Meminjam Buku">Meminjam Buku</option>
 							<option value="Internetan">Internetan</option>
 							<option value="Lain - lain">Lain - lain</option>
+							<!-- nyaa :3 -->
 						</select><br>
 						<div class="row">
 	  						<div class="col-md-4 col-md-offset-4">
