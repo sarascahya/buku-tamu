@@ -11,6 +11,7 @@
 		  	$jum_pengumuman = count($pengumuman);
 		  	$berita = getBerita();
 		  	$jum_berita = count($berita);
+			//haiiii aku sayang udi
 		?>
 	</head>
 	<body>
